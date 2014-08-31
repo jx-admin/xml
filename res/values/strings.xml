@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">PullXmlDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="text_json">{"calendar"：
+　　{"calendarlist"：
+　　[
+　　{"calendar_id"："1705"，"title"："（\u4eb2\u5b50）ddssd"，"category_name"："\u9ed8\u8ba4\u5206\u7c7b"，"showtime"："1288927800"，"endshowtime"："1288931400"，"allDay"：false}，
+　　{"calendar_id"："1706"，"title"："（\u65c5\u884c）"，"category_name"："\u9ed8\u8ba4\u5206\u7c7b"，"showtime"："1288933200"，"endshowtime"："1288936800"，"allDay"：false}
+　　]
+　　}
+　　}
+    </string>
+</resources>
